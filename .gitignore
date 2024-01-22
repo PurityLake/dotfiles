@@ -1,0 +1,8 @@
+*/
+.gsd-keyboard.settings-ported
+QtProject.conf
+user-dirs.dirs
+user-dirs.locale
+!alacritty/
+!nvim/
+!starship.toml
